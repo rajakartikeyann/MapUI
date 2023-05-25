@@ -1,0 +1,7 @@
+.bgimg {
+    background:url(image/image1.png) no-repeat top center; 
+     height: 30vh; 
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+  }
